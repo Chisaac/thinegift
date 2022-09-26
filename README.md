@@ -22,5 +22,7 @@ pip install python-decouple
 5- En ese entorno virtual y trabajando en la carpeta del proyecto, ejecutar:
 
 python extraccionDatos.py
+
 python procesamientoDatos.py
+
 python baseDatos.py
